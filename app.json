@@ -6,3 +6,9 @@
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
+
+var o = {}
+var key = 'key';
+o[key] = [];
+ 
+
